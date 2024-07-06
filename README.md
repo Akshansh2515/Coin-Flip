@@ -20,7 +20,7 @@
 
     bash
    
-          git clone https://github.com/YourUsername/Coin-Flip-App.git
+          git clone https://github.com/Akshansh2515/Coin-Flip.git
           cd coin-flip-app
 
 5. Install dependencies:
